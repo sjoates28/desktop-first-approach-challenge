@@ -1,0 +1,10 @@
+section { 
+    height: 100vh; /* viewport height is set to 100% to create full-height section  */
+    background-color: #800080; /* purple */
+}
+
+/* margins and paddings removed to acheive full-screen section */
+html body { 
+    margin: 0; 
+    padding: 0; 
+}
